@@ -1,4 +1,4 @@
-# yar-ai-android
+# yar-ai-androi
 
 name: Build Yar AI Android APK
 
